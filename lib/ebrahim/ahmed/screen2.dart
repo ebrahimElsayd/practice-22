@@ -1,4 +1,4 @@
-class extends StatelessWidget {
+class Moemen extends StatelessWidget {
 const ({super.key});
 
 @override
